@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Insightful Solutions, S.A."
+title = "Insightful Solutions, S. A."
 theme = "hugo-universal-theme"
 languageCode = "es-es"
 # Site language. Available translations in the theme's `/i18n` directory.
