@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://isd3.netlify.com//"
 title = "Insightful Solutions, S.A."
 theme = "hugo-universal-theme"
 languageCode = "es-es"
