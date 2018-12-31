@@ -50,13 +50,13 @@ paginate = 4
 [[menu.topbar]]
     weight = 2
     name = "Twitter"
-    url = "https://twitter.com/InsightfulS_D3"
+    url = "https://twitter.com/Insightful_s"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
     weight = 3
     name = "Instagram"
-    url = "https://www.instagram.com/insightfuls_d3/?hl=es-la"
+    url = "https://www.instagram.com/insightful.s/?hl=es-la"
     pre = "<i class='fa fa-2x fa-instagram'></i>"
 
 [[menu.topbar]]
