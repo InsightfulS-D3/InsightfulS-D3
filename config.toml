@@ -12,7 +12,7 @@ googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Define the number of posts per page
-paginate = 3
+paginate = 4
 
 [menu]
 
@@ -125,7 +125,7 @@ paginate = 3
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-#    text = """<p class="hidden-sm hidden-xs">Contecto: +(502) 4391 9552 | insightfulsolutions.d3@gmail.com.</p>
+#    text = """<p class="hidden-sm hidden-xs">Contacto: +(502) 4391 9552 | insightfulsolutions.d3@gmail.com.</p>
 #      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
 #      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
 #      </p>
