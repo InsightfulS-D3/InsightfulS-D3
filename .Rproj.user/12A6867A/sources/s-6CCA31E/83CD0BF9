@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546217465565.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "83CD0BF9",
+    "lastKnownWriteTime" : 1546226271,
+    "last_content_update" : 1546226271848,
+    "path" : "~/Documents/GitHub/InsightfulS-D3/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "176,18",
+        "scrollLine" : "164"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
