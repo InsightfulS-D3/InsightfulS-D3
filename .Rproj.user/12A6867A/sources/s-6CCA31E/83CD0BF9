@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "83CD0BF9",
-    "lastKnownWriteTime" : 1546226271,
-    "last_content_update" : 1546226271848,
+    "lastKnownWriteTime" : 1546227385,
+    "last_content_update" : 1546227385404,
     "path" : "~/Documents/GitHub/InsightfulS-D3/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "176,18",
-        "scrollLine" : "164"
+        "cursorPosition" : "0,12",
+        "scrollLine" : "0"
     },
     "relative_order" : 1,
     "source_on_save" : false,
