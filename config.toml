@@ -1,6 +1,7 @@
-baseurl = "https://isd3.netlify.com/"
+baseurl = "/"
 title = "Insightful Solutions, S.A."
 theme = "hugo-universal-theme"
+HUGO_VERSION = "0.42"
 languageCode = "es-es"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "es"
