@@ -1,7 +1,7 @@
-# baseurl = "/"
+baseurl = ""
 title = "Insightful Solutions, S.A."
 theme = "hugo-universal-theme"
-languageCode = "es-ES"
+languageCode = "es-es"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "es"
 # Enable comments by entering your Disqus shortname
