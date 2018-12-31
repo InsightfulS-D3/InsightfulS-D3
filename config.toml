@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "/"
 title = "Insightful Solutions, S.A."
 theme = "hugo-universal-theme"
 languageCode = "es-es"
