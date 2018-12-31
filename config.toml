@@ -1,4 +1,4 @@
-baseurl = "https://isd3.netlify.com//"
+baseurl = "https://isd3.netlify.com/"
 title = "Insightful Solutions, S.A."
 theme = "hugo-universal-theme"
 languageCode = "es-es"
@@ -12,7 +12,7 @@ googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Define the number of posts per page
-paginate = 10
+paginate = 4
 
 [menu]
 
