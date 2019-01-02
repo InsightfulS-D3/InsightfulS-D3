@@ -1,0 +1,33 @@
+
+library(rstudioapi)
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+getwd()
+rm(list = ls())
+
+# Setting up Blogdown
+# January, 2019
+
+# https://www.rstudio.com/resources/webinars/introducing-blogdown/
+# https://bookdown.org/yihui/blogdown/
+
+
+# Install from GitHub
+# devtools::install_github('rstudio/blogdown')
+blogdown::update_hugo()
+
+# Automatically install Hugo, create a site, download a theme
+# add sample posts, and start a local web server
+
+blogdown::new_site()
+
+
+# Set global options
+file.edit("~/.Rprofile")
+
+# Check version of Hugo 
+# This needs to match when deploying in Netlify
+blogdown::hugo_version()
+
+
+
+
