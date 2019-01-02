@@ -10,7 +10,7 @@ Como primer proyecto, se crea la empresa [Data Driven Decisions](https://d3.insi
 
 &bull; Visualización de datos (gráficas / mapas / redes) <br>
 &bull; Recolección y reporte automatizado de información <br>
-&bull; Estudios de investigación sociopolíticos <br>
 &bull; Procesamiento y análisis de datos <br>
+&bull; Estudios de investigación sociopolíticos <br>
 &bull; Capacitaciones <br>
 &bull; Desarrollo de estrategias <br>
