@@ -1,6 +1,5 @@
 ---
-title: "Hi, I'm Introduction"
+title: "Insightful Solutions"
 headless: true
 ---
 
-I'm a theme for Hugo

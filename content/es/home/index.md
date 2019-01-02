@@ -1,5 +1,5 @@
 ---
-title: "Insightful Solutions, S.A."
+title: "Insightful Solutions"
 headless: true
 ---
 

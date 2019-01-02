@@ -1,5 +1,5 @@
 baseURL                          = "https://www.insightful-s.com/"  # Your domain name. Must end with "/"
-theme = "hugo-theme-introduction"
+theme                            = "hugo-theme-introduction"
 DefaultContentLanguage           = "es"                    # Default language for multilingual sites
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                       # https://gohugo.io/templates/internal/#google-analytics
@@ -18,7 +18,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     # Configure the home page
     [params.home]
-        introHeight              = "large"                 # Input either "medium" or "large" or "fullheight"
+        introHeight              = "fullheight"                 # Input either "medium" or "large" or "fullheight"
         showLatest               = false                    # Show latest blog post summary
         showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
         numberOfProjectsToShow   = 2                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
@@ -97,7 +97,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Insightful Solutions, S.A."
+        title            = "Insightful Solutions"
         [languages.en.params]
             description  = "Website Description"   # Max 160 characters show in search results
             # footerText   = ""                    # Text to override default footer text (markdown allowed)
@@ -107,7 +107,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         languageCode     = "es"
         contentDir       = "content/es"
         weight           = 1
-        title            = "Insightful Solutions, S.A."
+        title            = "Insightful Solutions"
         [languages.es.params]
             description  = "Descripcion del sitio web"
             footerText   = "(c) 2019 Insightful Solutions, S.A"

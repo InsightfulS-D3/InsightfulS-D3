@@ -10,7 +10,7 @@
     <body>
         <section id="top" class="section">
             {{ with .Site.GetPage "/home" }}
-            <div class="hero is-{{ .Site.Params.home.introHeight | default "large" }}">
+            <div class="hero is-{{ .Site.Params.home.introHeight | default "medium" }}">
                 <!-- Super sweet Hero body title -->
                 <div class="hero-body">
                     <div class="container has-text-centered">
