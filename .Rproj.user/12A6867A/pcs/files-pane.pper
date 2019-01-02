@@ -1,5 +1,5 @@
 {
-    "path" : "~/Documents/GitHub/d3/themes/hugo-universal-theme/archetypes",
+    "path" : "~/Documents/GitHub/d3/themes/hugo-universal-theme/layouts/partials",
     "sortOrder" : [
         {
             "ascending" : true,
