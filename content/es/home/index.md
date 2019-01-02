@@ -1,6 +1,6 @@
 ---
-title: "Hola, Soy Introducción"
+title: "Insightful Solutions, S.A."
 headless: true
 ---
 
-Soy un tema para Hugo
+

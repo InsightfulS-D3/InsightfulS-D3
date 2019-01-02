@@ -1,11 +1,9 @@
 ---
-title: "Diseño"
-weight: 2
+title: "Data Driven Decisions"
+weight: 1
 resources:
-    - src: plant.jpg
+    - src: logo-d3-white.jpg
       params:
           weight: -100
 ---
-Este tema fue diseñado por [Vicky Lai](https://vickylai.io). Ve, explora! 💪
-
-Si deseas usarlo en tu sitio web, revisa la sección al final de la página principal. 👍
+[Data Driven Decisions](https://d3.insightful-s.com/).

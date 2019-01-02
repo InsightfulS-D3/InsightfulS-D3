@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     fadeIn                       = true                    # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
-    email                        = "javierbrolo@insightful-s.com"   # E-mail address for contact section
+    # email                        = "javierbrolo@insightful-s.com"   # E-mail address for contact section
     # customCSS                    = ["foo.css"]             # Include custom css files placed under assets/
 
     # Configure the home page
@@ -57,14 +57,22 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 # If you don't want to use the default menu, you can define one by yourself
-# [[menu.main]]
-#     name    = "Home"
-#     url     = "/"
-#     weight  = 0
-# [[menu.main]]
-#     name    = "Blog"
-#     url     = "/blog/"
-#     weight  = 1
+[[menu.main]]
+    name    = "Home"
+    url     = "/"
+    weight  = 1
+[[menu.main]]
+    name    = "Acerca de"
+    url     = "/#about"
+    weight  = 2
+[[menu.main]]
+    name    = "Proyectos"
+    url     = "/projects"
+    weight  = 3
+[[menu.main]]
+    name    = "Contacto"
+    url     = "/#contact"
+    weight  = 4
 
 # We only use tag as a taxonomies
 # You can add more by yourself
