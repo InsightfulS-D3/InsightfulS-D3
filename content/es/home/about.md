@@ -16,6 +16,6 @@ Como primer proyecto, se creó la empresa [Data Driven Decisions](https://d3.ins
 &bull; Automatización
 
 <strong>Asesoría</strong> <br>
-&bull; Capacitaciones sobre métdos de investigación
+&bull; Capacitaciones sobre métodos de investigación
 &bull; Estudios sociopolíticos 
 &bull; Desarrollo de estrategias de incidencia
