@@ -19,7 +19,7 @@ paginate = 4
 # Main menu
 
 [[menu.main]]
-    name = "Inicio 2"
+    name = "Inicio"
     url  = "/"
     weight = 1
 
