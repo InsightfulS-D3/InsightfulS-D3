@@ -4,4 +4,4 @@ title: "Acerca de"
 weight: 0
 ---
 
-Descripción de Insightful Solutions, S.A. y el proyecto Data Driven Decisions.
+Insightful Solutions, S.A. se constituyó en febrero de 2018. Su objetivo es desarrollar soluciones a desafíos sociales por medio de análisis de datos sistemático e introspectivo integrando esfuerzos de profesionales 
