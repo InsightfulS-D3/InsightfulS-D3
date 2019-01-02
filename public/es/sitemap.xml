@@ -6,11 +6,6 @@
     <loc>/projects/design/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/projects/design/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/projects/design/"
                 />
@@ -24,11 +19,6 @@
   <url>
     <loc>/</loc>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -45,11 +35,6 @@
     <loc>/projects/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/projects/"
                 />
@@ -63,11 +48,6 @@
   <url>
     <loc>/tags/</loc>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

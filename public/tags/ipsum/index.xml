@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ipsum on Introducción</title>
+    <title>Ipsum on Insightful Solutions, S.A.</title>
     <link>/tags/ipsum/</link>
-    <description>Recent content in Ipsum on Introducción</description>
+    <description>Recent content in Ipsum on Insightful Solutions, S.A.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 13 Nov 2017 11:58:39 -0500</lastBuildDate>
     
 	<atom:link href="/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hipster Ipsum - Español</title>
-      <link>/blog/hipser-ipsum/</link>
+      <title>Hipster Ipsum</title>
+      <link>/blog/hipster-ipsum/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>/blog/hipser-ipsum/</guid>
+      <guid>/blog/hipster-ipsum/</guid>
       <description>Occupy mlkshk kale chips woke, listicle locavore next level fingerstache glossier aesthetic man braid before they sold out kitsch prism. Cred copper mug freegan, flannel YOLO single-origin coffee skateboard artisan four loko church-key man bun. Synth literally gastropub, kombucha chillwave helvetica offal truffaut church-key freegan pop-up gentrify narwhal. Kombucha viral vexillologist green juice. Slow-carb hoodie mumblecore tumeric tattooed meditation, lo-fi fap cred affogato forage whatever austin. Shabby chic direct trade migas, brunch gochujang sriracha chambray fanny pack 8-bit mustache letterpress.</description>
     </item>
     
     <item>
-      <title>Startup Ipsum - Español</title>
+      <title>Startup Ipsum</title>
       <link>/blog/startup-ipsum/</link>
       <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>Coffee Ipsum - Español</title>
+      <title>Coffee Ipsum</title>
       <link>/blog/coffee-ipsum/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       

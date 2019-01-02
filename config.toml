@@ -7,24 +7,24 @@ DefaultContentLanguage           = "es"                    # Default language fo
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-    themeStyle                   = "dark"                 # Choose "light" or "dark"
+    themeStyle                   = "light"                 # Choose "light" or "dark"
     favicon                      = "/img/fav.ico"          # Path to favicon file
-    showRSSButton                = true                   # Show rss button in navigation
-    fadeIn                       = true                    # Turn on/off the fade-in effect
-    fadeInIndex                  = true                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
+    showRSSButton                = false                   # Show rss button in navigation
+    fadeIn                       = false                    # Turn on/off the fade-in effect
+    fadeInIndex                  = false                  # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
     # email                        = "javierbrolo@insightful-s.com"   # E-mail address for contact section
     # customCSS                    = ["foo.css"]             # Include custom css files placed under assets/
 
     # Configure the home page
     [params.home]
-        introHeight              = "medium"                 # Input either "medium" or "large" or "fullheight"
+        introHeight              = "large"                 # Input either "medium" or "large" or "fullheight"
         showLatest               = false                    # Show latest blog post summary
         showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
-        numberOfProjectsToShow   = 1                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
+        numberOfProjectsToShow   = 2                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
 
-        localTime                = false                    # Show your current local time in contact section
-        timeZone                 = "America/Los_Angeles"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+        localTime                = false                   # Show your current local time in contact section
+        timeZone                 = "America/Guatemala"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
     [params.projects]
         useTwoColumns            = true                   # Use a layout with two columns instead of three
 
@@ -43,16 +43,28 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         icon  = "twitter" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
-        url   = "https://www.facebook.com/Insightful-Solutions-SA-372951870174638/"
+        url   = "https://www.facebook.com/insightful.s/"
         icon  = "facebook-f" # icon name without the 'fa-'
         icon_pack = "fab"
-#    [[params.social]]
-#        url   = "https://linkedin.com/"
-#        icon  = "linkedin-in" # icon name without the 'fa-'
-#        icon_pack = "fab"
+    [[params.social]]
+        url   = "https://www.instagram.com/insightful.s/"
+        icon  = "instagram" # icon name without the 'fa-'
+        icon_pack = "fab"
+    [[params.social]]
+        url   = "https://www.youtube.com/channel/UCWv3MTKAmUV-z3H56kQkwXg/about"
+        icon  = "youtube" # icon name without the 'fa-'
+        icon_pack = "fab"
+    [[params.social]]
+        url   = "https://www.linkedin.com/company/insightful-s/"
+        icon  = "linkedin-in" # icon name without the 'fa-'
+        icon_pack = "fab"
+    [[params.social]]
+        url   = "https://github.com/InsightfulS-D3"
+        icon  = "github" # icon name without the 'fa-'
+        icon_pack = "fab"
     [[params.social]]
         url = "mailto:javierbrolo@insightful-s.com"  # For a direct email link, use "mailto:test@example.org".
-        icon = "paper-plane" # icon name without the 'fa-'
+        icon = "envelope" # icon name without the 'fa-'
         icon_pack = "fas"
 
 
@@ -85,28 +97,19 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Introduction"
+        title            = "Insightful Solutions, S.A."
         [languages.en.params]
             description  = "Website Description"   # Max 160 characters show in search results
-            # footerText   = ""                      # Text to override default footer text (markdown allowed)
+            # footerText   = ""                    # Text to override default footer text (markdown allowed)
 
     [languages.es]
         languageName     = "Español"
         languageCode     = "es"
         contentDir       = "content/es"
         weight           = 1
-        title            = "Introducción"
+        title            = "Insightful Solutions, S.A."
         [languages.es.params]
             description  = "Descripcion del sitio web"
-            # footerText   = ""
+            footerText   = "(c) 2019 Insightful Solutions, S.A"
 
-    [languages.de]
-        languageName     = "Deutsch"
-        languageCode     = "de"
-        contentDir       = "content/de"
-        weight           = 2
-        title            = "Vorstellung"
-        [languages.de.params]
-            dateFormat   = "2. January 2006"
-            description  = "Beschreibung der Webseite"
-            # footerText   = ""
+
