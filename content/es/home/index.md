@@ -1,6 +1,6 @@
 ---
 title: "Insightful Solutions"
-headless: true
+headless: false
 ---
 
 
