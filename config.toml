@@ -18,7 +18,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     # Configure the home page
     [params.home]
-        introHeight              = "medium"                 # Input either "medium" or "large" or "fullheight"
+        introHeight              = "fullheight"                 # Input either "medium" or "large" or "fullheight"
         showLatest               = false                    # Show latest blog post summary
         showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
         numberOfProjectsToShow   = 2                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
