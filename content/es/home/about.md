@@ -19,3 +19,7 @@ Como primer proyecto, se creó la empresa [Data Driven Decisions](https://d3.ins
 &bull; Capacitaciones sobre métodos
 &bull; Estudios sociopolíticos 
 &bull; Estrategias de incidencia
+
+El actual Director Ejecutivo es [Javier Brolo](mailto:javierbrolo@insightful-s.com), MSc en Ciencia Política y BA en Filosofía con más de diez años de experiencia en docencia, investigación y asesoría. 
+
+

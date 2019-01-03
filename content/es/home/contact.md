@@ -2,7 +2,7 @@
 title: "Contacto"
 ---
 
-Insightful Solutions, S.A.
+Insightful Solutions, S.A. <br>
 
 7 Avenida 8-49 Zona 2 <br>
 Ciudad de Guatemala <br>
