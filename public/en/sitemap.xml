@@ -32,16 +32,46 @@
   <url>
     <loc>/en/blog/startup-ipsum/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/startup-ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/startup-ipsum/"
+                />
   </url>
   
   <url>
     <loc>/en/blog/coffee-ipsum/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/coffee-ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/coffee-ipsum/"
+                />
   </url>
   
   <url>
     <loc>/en/blog/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/"
+                />
   </url>
   
   <url>
@@ -132,6 +162,16 @@
   
   <url>
     <loc>/en/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/projects/"
+                />
   </url>
   
   <url>
