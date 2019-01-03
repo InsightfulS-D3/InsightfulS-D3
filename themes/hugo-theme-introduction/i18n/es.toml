@@ -7,7 +7,7 @@
 [index_team_allMembers]
     other = "Todos los miembros"
 [index_blog_latestPosts]
-    other = "Proyectos recientes"
+    other = "Proyectos"
 [index_blog_allPosts]
     other = "Todos los proyectos"
 [index_blog_readMore]

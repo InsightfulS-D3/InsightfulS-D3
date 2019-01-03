@@ -1,5 +1,5 @@
 ---
-title: "Proyectos recientes"
+title: "Proyectos"
 weight: 2
 ---
 
