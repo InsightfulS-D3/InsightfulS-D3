@@ -4,44 +4,14 @@
   
   <url>
     <loc>/en/projects/photography/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/projects/photography/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projects/photography/"
-                />
   </url>
   
   <url>
     <loc>/en/projects/design/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/projects/design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projects/design/"
-                />
   </url>
   
   <url>
     <loc>/en/projects/writing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/projects/writing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projects/writing/"
-                />
   </url>
   
   <url>
@@ -153,11 +123,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/"
                 />
@@ -201,11 +166,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"

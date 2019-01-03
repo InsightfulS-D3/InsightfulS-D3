@@ -3,45 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/projects/photography/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projects/photography/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/projects/photography/"
-                />
+    <loc>/projects/uso-datos/</loc>
   </url>
   
   <url>
-    <loc>/projects/design/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projects/design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/projects/design/"
-                />
-  </url>
-  
-  <url>
-    <loc>/projects/writing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projects/writing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/projects/writing/"
-                />
+    <loc>/projects/g-conocimiento/</loc>
   </url>
   
   <url>
@@ -127,6 +93,10 @@
   </url>
   
   <url>
+    <loc>/home/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/images/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <priority>0</priority>
@@ -146,11 +116,6 @@
     <loc>/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -197,11 +162,6 @@
     <loc>/tags/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

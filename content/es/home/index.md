@@ -1,6 +1,5 @@
 ---
-title: "Hola, Soy Introducción"
-headless: true
+title: "Data Driven Decisions"
+headless: false
 ---
 
-Soy un tema para Hugo

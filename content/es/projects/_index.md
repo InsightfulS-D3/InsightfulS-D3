@@ -1,5 +1,4 @@
 ---
-title: "Proyectos"
+title: "Servicios"
 ---
 
-Este es un texto introductorio para mis proyectos.

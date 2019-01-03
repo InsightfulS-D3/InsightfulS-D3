@@ -1,17 +1,6 @@
 ---
-title: "Sobre"
-image: "profile.jpg"
+title: "Acerca de"
 weight: 0
 ---
 
-Esto es **Introducción**, un tema mínimo con desplazamiento para sitios web hechos con [Hugo](https://gohugo.io).
-
-### Características
-
-* Visualización responsiva a cualquier tipo de pantalla
-* Suave fade-in al cargar el sitio con CSS3
-* Desplazamiento suave a las secciones de la página desde la navegación
-* Temas claros y oscuros
-* Seccion _Projects_ con cualquier número de proyectos: configurable como galería de fotos, popup con detalles, o links externos
-* Seccion _Blog_ con la inclusión opcional de _Latest Post_, en la página principal o como una seccion separada
-* Soporte para HighlightJS
+Data Driven Decisions asesora la toma de decisiones complejas que personas, organizaciones, empresas o entidades públicas deben tomar. Para ello, analiza de forma sistemática evidencia sobre los resultados esperados de dichas decisiones. Entre sus servicios ofrece: estudios de investigación, procesamiento y análisis de datos, recolección y reporte automatizado de información, visualización de datos (gráficas, mapas o redes), capacitaciones, desarrollo de estrategias, entre otros.

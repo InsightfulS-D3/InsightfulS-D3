@@ -3,11 +3,11 @@
 [404_description]
     other = "Oops! O bien encontraste un bug{{ with .Site.Params.email }} (en cuyo caso, [por favor avisame](mailto:{{ . }})) {{ end }} o simplemente estas inventando cosas. Esta página no existe!"
 [index_projects_allProjects]
-    other = "Todos los proyectos"
+    other = "Todos los servicios"
 [index_blog_latestPosts]
-    other = "Últimas Entradas"
+    other = "Proyectos recientes"
 [index_blog_allPosts]
-    other = "Todas las Entradas"
+    other = "Todos los proyectos"
 [index_blog_readMore]
     other = "Leer más"
 [index_currentTime]
@@ -22,4 +22,4 @@
 [blog_shareThis]
     other = "Comparte esto"
 [footer_text]
-    other = "Tema [**Introduction**](https://github.com/vickylai/hugo-theme-introduction/) para [Hugo](http://gohugo.io/). Hecho con [<i class=\"fa fa-heart\"></i> y <i class=\"fa fa-coffee\"></i>](https://vickylai.com) por colaboradores de código abierto."
+    other = ""

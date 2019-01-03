@@ -2,6 +2,12 @@
 title: "Contacto"
 ---
 
-En la sección de Contacto de **Introducción**, tu puedes opcionalmente mostrar la hora actual en tu zona horaria preferida.
+Data Driven Decisions <br>
 
-Esto permite a los visitantes saber que tiempo de respuesta esperan tener cuando te contactan. La zhoa horaria es facilmente configurable en el archivo de configuración.
+7 Avenida 8-49 Zona 2 <br>
+Ciudad de Guatemala <br>
+Guatemala, 01002 <br>
+GUATEMALA, C.A. <br>
+
+[https://d3.insightful-s.com/](/) <br>
++(502) 4391 9552
