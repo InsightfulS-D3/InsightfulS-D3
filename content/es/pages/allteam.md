@@ -1,5 +1,5 @@
 ---
-title: "Equipo"
+title: "Colaboradores"
 ---
 
 <img src="/img/Javier Brolo.jpg" alt="drawing" style="width:200px;">
@@ -8,7 +8,8 @@ title: "Equipo"
 
 <strong>Javier Brolo</strong> <br>
 MSc Ciencia Política y BA Filosofía <br>
-Director Ejecutivo <br> 
+Director Ejecutivo <br>
+Insightful Solutions, S.A. <br> 
 [javierbrolo@insightful-s.com](mailto:javierbrolo@insightful-s.com) <br>
 +(502) 4391-9552
 
