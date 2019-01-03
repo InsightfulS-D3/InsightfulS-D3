@@ -1,5 +1,5 @@
 ---
-title: "Miembros"
+title: "Colaboradores"
+weight: 3
 ---
 
-<center>Conoce al equipo</center>

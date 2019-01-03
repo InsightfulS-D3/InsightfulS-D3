@@ -3,80 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/projects/"
-                />
+    <loc>/servicios/</loc>
   </url>
   
   <url>
-    <loc>/projects/uso-datos/</loc>
+    <loc>/servicios/uso-datos/</loc>
   </url>
   
   <url>
-    <loc>/projects/g-conocimiento/</loc>
+    <loc>/servicios/g-conocimiento/</loc>
   </url>
   
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>/blog/2015-07-23-r-rmarkdown/</loc>
+    <loc>/proyectos/</loc>
     <lastmod>2018-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/hipser-ipsum/</loc>
+    <loc>/team/</loc>
+  </url>
+  
+  <url>
+    <loc>/proyectos/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/proyectos/hipser-ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/startup-ipsum/</loc>
+    <loc>/proyectos/startup-ipsum/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blog/startup-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/startup-ipsum/"
-                />
   </url>
   
   <url>
-    <loc>/blog/coffee-ipsum/</loc>
+    <loc>/proyectos/coffee-ipsum/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blog/coffee-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/coffee-ipsum/"
-                />
   </url>
   
   <url>
@@ -165,10 +129,6 @@
                 hreflang="es"
                 href="/tags/ipsum/"
                 />
-  </url>
-  
-  <url>
-    <loc>/team/</loc>
   </url>
   
   <url>

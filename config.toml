@@ -86,8 +86,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url     = "/#Proyectos recientes"
     weight  = 4
 [[menu.main]]
-    name    = "Miembros"
-    url     = "/#Miembros"
+    name    = "Colaboradores"
+    url     = "/#Colaboradores"
     weight  = 5
 [[menu.main]]
     name    = "Contacto"
