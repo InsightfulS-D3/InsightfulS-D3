@@ -2,7 +2,7 @@ baseURL                          = "https://www.insightful-s.com/"  # Your domai
 theme                            = "hugo-theme-introduction"
 DefaultContentLanguage           = "es"                    # Default language for multilingual sites
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
-# googleAnalytics                 = ""                       # https://gohugo.io/templates/internal/#google-analytics
+# googleAnalytics                = ""                       # https://gohugo.io/templates/internal/#google-analytics
 # Ignore some files 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
