@@ -3,20 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/projects/design/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projects/design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/projects/design/"
-                />
-  </url>
-  
-  <url>
     <loc>/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -33,20 +19,6 @@
   
   <url>
     <loc>/home/</loc>
-  </url>
-  
-  <url>
-    <loc>/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/projects/"
-                />
   </url>
   
   <url>

@@ -8,16 +8,6 @@
   
   <url>
     <loc>/en/projects/design/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/projects/design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projects/design/"
-                />
   </url>
   
   <url>
@@ -86,16 +76,6 @@
   
   <url>
     <loc>/en/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projects/"
-                />
   </url>
   
   <url>
