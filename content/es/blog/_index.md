@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Proyectos recientes"
 weight: 2
 ---
 

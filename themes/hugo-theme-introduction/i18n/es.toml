@@ -4,6 +4,8 @@
     other = "Oops! O bien encontraste un bug{{ with .Site.Params.email }} (en cuyo caso, [por favor avisame](mailto:{{ . }})) {{ end }} o simplemente estas inventando cosas. Esta página no existe!"
 [index_projects_allProjects]
     other = "Todos los servicios"
+[index_team_allMembers]
+    other = "Todos los miembros"
 [index_blog_latestPosts]
     other = "Proyectos recientes"
 [index_blog_allPosts]

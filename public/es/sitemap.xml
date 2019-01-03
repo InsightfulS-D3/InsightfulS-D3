@@ -21,8 +21,12 @@
   </url>
   
   <url>
+    <loc>/projects/g-conocimiento/</loc>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,7 +40,8 @@
   </url>
   
   <url>
-    <loc>/projects/g-conocimiento/</loc>
+    <loc>/blog/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
@@ -111,6 +116,10 @@
   </url>
   
   <url>
+    <loc>/pages/allteam/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/images/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <priority>0</priority>
@@ -128,7 +137,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -156,6 +165,33 @@
                 hreflang="es"
                 href="/tags/ipsum/"
                 />
+  </url>
+  
+  <url>
+    <loc>/team/</loc>
+  </url>
+  
+  <url>
+    <loc>/pages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

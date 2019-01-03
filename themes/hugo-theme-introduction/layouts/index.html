@@ -75,6 +75,8 @@
                 {{ partial "home/projects.html" . }}
                 <!-- Let`s show some blog posts -->
                 {{ partial "home/blog.html" . }}
+                <!-- Now for some cool projects --> 
+                {{ partial "home/team.html" . }}
                 <!-- Let`s chat, shall we? -->
                 {{ with .Resources.GetMatch "contact.md" }}
                 <div class="section" id="{{ .File.TranslationBaseName }}">

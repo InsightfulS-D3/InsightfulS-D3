@@ -1,8 +1,8 @@
 baseURL                          = "https://d3.insightful-s.com/"  # Your domain name. Must end with "/"
 theme                            = "hugo-theme-introduction"
 DefaultContentLanguage           = "es"                    # Default language for multilingual sites
-# disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
-# googleAnalytics                 = ""                       # https://gohugo.io/templates/internal/#google-analytics
+disqusshortname                  = "insightfulsolutions"   # https://gohugo.io/content-management/comments
+# googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
 # Ignore some files 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
@@ -82,12 +82,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url     = "/#Servicios"
     weight  = 3
 [[menu.main]]
-    name    = "Blog"
-    url     = "/#Blog"
+    name    = "Proyectos recientes"
+    url     = "/#Proyectos recientes"
     weight  = 4
 [[menu.main]]
-    name    = "Equipo"
-    url     = "/#Team"
+    name    = "Miembros"
+    url     = "/#Miembros"
     weight  = 5
 [[menu.main]]
     name    = "Contacto"

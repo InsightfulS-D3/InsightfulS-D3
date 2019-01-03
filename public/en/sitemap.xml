@@ -15,6 +15,16 @@
   </url>
   
   <url>
+    <loc>/en/post/2019-01-03-new/</loc>
+    <lastmod>2019-01-03T08:59:17-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/post/2019-01-03-new-post/</loc>
+    <lastmod>2019-01-03T08:50:54-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/en/blog/hipster-ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
@@ -114,7 +124,7 @@
   
   <url>
     <loc>/en/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <lastmod>2019-01-03T08:59:17-06:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -142,6 +152,12 @@
                 hreflang="en"
                 href="/en/tags/ipsum/"
                 />
+  </url>
+  
+  <url>
+    <loc>/en/post/</loc>
+    <lastmod>2019-01-03T08:59:17-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
