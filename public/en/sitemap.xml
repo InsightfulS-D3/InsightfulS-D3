@@ -11,11 +11,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/projects/photography/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/projects/photography/"
                 />
@@ -27,11 +22,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/projects/design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/projects/design/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -49,11 +39,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/projects/writing/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/projects/writing/"
                 />
@@ -62,16 +47,6 @@
   <url>
     <loc>/en/blog/hipster-ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/blog/hipster-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blog/hipster-ipsum/"
-                />
   </url>
   
   <url>
@@ -81,11 +56,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/blog/startup-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -104,11 +74,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/blog/coffee-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/blog/coffee-ipsum/"
                 />
@@ -121,11 +86,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -145,11 +105,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/tags/code/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/tags/code/"
                 />
@@ -166,11 +121,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/tags/coffee/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/tags/coffee/"
                 />
@@ -184,11 +134,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/tags/images/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -229,11 +174,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/tags/ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/tags/ipsum/"
                 />
@@ -245,11 +185,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/projects/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -291,11 +226,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/tags/words/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/words/"
                 />
     <xhtml:link
                 rel="alternate"
