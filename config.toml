@@ -1,7 +1,7 @@
 baseURL                          = "https://d3.insightful-s.com/"  # Your domain name. Must end with "/"
 theme                            = "hugo-theme-introduction"
 DefaultContentLanguage           = "es"                    # Default language for multilingual sites
-disqusShortname                  = "insightfulsolutions"   # https://gohugo.io/content-management/comments
+disqusShortname                  = "insightful-s-com"      # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
 # Ignore some files 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
