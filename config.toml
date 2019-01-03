@@ -86,6 +86,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url     = "/#contact"
     weight  = 4
 
+
+
 # We only use tag as a taxonomies
 # You can add more by yourself
 [taxonomies]
