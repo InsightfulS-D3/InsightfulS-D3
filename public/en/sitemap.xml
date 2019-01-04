@@ -27,16 +27,46 @@
   <url>
     <loc>/en/blog/hipster-ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/hipster-ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/hipster-ipsum/"
+                />
   </url>
   
   <url>
     <loc>/en/blog/startup-ipsum/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/startup-ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/startup-ipsum/"
+                />
   </url>
   
   <url>
     <loc>/en/blog/coffee-ipsum/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/coffee-ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/coffee-ipsum/"
+                />
   </url>
   
   <url>
@@ -58,18 +88,48 @@
     <loc>/en/tags/code/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/code/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/code/"
+                />
   </url>
   
   <url>
     <loc>/en/tags/coffee/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/coffee/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/coffee/"
+                />
   </url>
   
   <url>
     <loc>/en/tags/images/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/images/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/images/"
+                />
   </url>
   
   <url>
@@ -92,6 +152,16 @@
     <loc>/en/tags/ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/ipsum/"
+                />
   </url>
   
   <url>
@@ -132,12 +202,32 @@
   
   <url>
     <loc>/en/blog/no-date/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/no-date/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/no-date/"
+                />
   </url>
   
   <url>
     <loc>/en/tags/words/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/words/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/words/"
+                />
   </url>
   
 </urlset>
