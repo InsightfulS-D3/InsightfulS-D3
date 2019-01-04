@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Conflictividad</title>
-      <link>/blog/2019-01-04-asies-conflictividad/</link>
-      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
-      
-      <guid>/blog/2019-01-04-asies-conflictividad/</guid>
-      <description>Describir estudio de conflictividad</description>
-    </item>
-    
-    <item>
       <title>Generación De Conocimiento</title>
       <link>/pages-rich/2019-01-03-generacio%CC%81n-de-conocimiento/</link>
       <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
@@ -32,57 +23,66 @@
     </item>
     
     <item>
-      <title>Métodos cualitativos</title>
-      <link>/blog/2019-01-04-ufm-metodos-cualitativos/</link>
-      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      <title>Agenda legislativa</title>
+      <link>/blog/2019-01-01-asies-agenda-legislativa/</link>
+      <pubDate>Tue, 01 Jan 2019 21:13:14 -0500</pubDate>
       
-      <guid>/blog/2019-01-04-ufm-metodos-cualitativos/</guid>
+      <guid>/blog/2019-01-01-asies-agenda-legislativa/</guid>
+      <description>Describir estudios de agenda legislativa</description>
+    </item>
+    
+    <item>
+      <title>Conflictividad</title>
+      <link>/blog/2019-01-01-asies-conflictividad/</link>
+      <pubDate>Tue, 01 Jan 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2019-01-01-asies-conflictividad/</guid>
+      <description>Describir estudio de conflictividad</description>
+    </item>
+    
+    <item>
+      <title>Métodos cualitativos</title>
+      <link>/blog/2019-01-01-ufm-metodos-cualitativos/</link>
+      <pubDate>Tue, 01 Jan 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2019-01-01-ufm-metodos-cualitativos/</guid>
       <description>Describir curso de métdos cualitativos.</description>
     </item>
     
     <item>
       <title>Métodos cuantitativos</title>
-      <link>/blog/2019-01-04-edg-metodos-cuantitativos/</link>
-      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      <link>/blog/2019-01-01-edg-metodos-cuantitativos/</link>
+      <pubDate>Tue, 01 Jan 2019 21:13:14 -0500</pubDate>
       
-      <guid>/blog/2019-01-04-edg-metodos-cuantitativos/</guid>
+      <guid>/blog/2019-01-01-edg-metodos-cuantitativos/</guid>
       <description>Describir curso de métdos cuantitativos</description>
     </item>
     
     <item>
       <title>Partidos distritales</title>
-      <link>/blog/2019-01-04-ndi-partidos-distritales/</link>
-      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      <link>/blog/2019-01-01-ndi-partidos-distritales/</link>
+      <pubDate>Tue, 01 Jan 2019 21:13:14 -0500</pubDate>
       
-      <guid>/blog/2019-01-04-ndi-partidos-distritales/</guid>
+      <guid>/blog/2019-01-01-ndi-partidos-distritales/</guid>
       <description>Describir estudios sobre partidos distritales</description>
     </item>
     
     <item>
       <title>Salario diputados</title>
-      <link>/blog/2019-01-04-ndi-salario-diputados/</link>
-      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      <link>/blog/2019-01-01-ndi-salario-diputados/</link>
+      <pubDate>Tue, 01 Jan 2019 21:13:14 -0500</pubDate>
       
-      <guid>/blog/2019-01-04-ndi-salario-diputados/</guid>
+      <guid>/blog/2019-01-01-ndi-salario-diputados/</guid>
       <description>Describir estudios sobre salario de diputados</description>
     </item>
     
     <item>
       <title>Teoria de juegos</title>
-      <link>/blog/2019-01-04-ufm-teoria-de-juegos/</link>
-      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      <link>/blog/2019-01-01-ufm-teoria-de-juegos/</link>
+      <pubDate>Tue, 01 Jan 2019 21:13:14 -0500</pubDate>
       
-      <guid>/blog/2019-01-04-ufm-teoria-de-juegos/</guid>
+      <guid>/blog/2019-01-01-ufm-teoria-de-juegos/</guid>
       <description>Describir curso de teoria de juegos</description>
-    </item>
-    
-    <item>
-      <title>Agenda legislativa</title>
-      <link>/blog/2019-01-04-asies-agenda-legislativa/</link>
-      <pubDate>Wed, 02 Jan 2019 21:13:14 -0500</pubDate>
-      
-      <guid>/blog/2019-01-04-asies-agenda-legislativa/</guid>
-      <description>Describir estudios de agenda legislativa</description>
     </item>
     
   </channel>

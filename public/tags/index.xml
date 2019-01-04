@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Data Driven Decisions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 04 Jan 2019 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Asies</title>
       <link>/tags/asies/</link>
-      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      <pubDate>Tue, 01 Jan 2019 21:13:14 -0500</pubDate>
       
       <guid>/tags/asies/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Automatizacion</title>
       <link>/tags/automatizacion/</link>
-      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      <pubDate>Tue, 01 Jan 2019 21:13:14 -0500</pubDate>
       
       <guid>/tags/automatizacion/</guid>
       <description></description>
@@ -32,27 +32,9 @@
     <item>
       <title>Capacitaciones</title>
       <link>/tags/capacitaciones/</link>
-      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      <pubDate>Tue, 01 Jan 2019 21:13:14 -0500</pubDate>
       
       <guid>/tags/capacitaciones/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Code</title>
-      <link>/tags/code/</link>
-      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
-      
-      <guid>/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coffee</title>
-      <link>/tags/coffee/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
-      
-      <guid>/tags/coffee/</guid>
       <description></description>
     </item>
     
@@ -77,7 +59,7 @@
     <item>
       <title>Edg</title>
       <link>/tags/edg/</link>
-      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      <pubDate>Tue, 01 Jan 2019 21:13:14 -0500</pubDate>
       
       <guid>/tags/edg/</guid>
       <description></description>
@@ -86,34 +68,16 @@
     <item>
       <title>Estudios</title>
       <link>/tags/estudios/</link>
-      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      <pubDate>Tue, 01 Jan 2019 21:13:14 -0500</pubDate>
       
       <guid>/tags/estudios/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Images</title>
-      <link>/tags/images/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
-      
-      <guid>/tags/images/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>/tags/ipsum/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
-      
-      <guid>/tags/ipsum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ndi</title>
       <link>/tags/ndi/</link>
-      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      <pubDate>Tue, 01 Jan 2019 21:13:14 -0500</pubDate>
       
       <guid>/tags/ndi/</guid>
       <description></description>
@@ -122,18 +86,9 @@
     <item>
       <title>Ufm</title>
       <link>/tags/ufm/</link>
-      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      <pubDate>Tue, 01 Jan 2019 21:13:14 -0500</pubDate>
       
       <guid>/tags/ufm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Words</title>
-      <link>/tags/words/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
-      
-      <guid>/tags/words/</guid>
       <description></description>
     </item>
     
