@@ -1,31 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Introducción</title>
+    <title>Posts on Data Driven Decisions</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Introducción</description>
+    <description>Recent content in Posts on Data Driven Decisions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 03 Jan 2019 08:59:17 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jan 2019 21:41:27 -0600</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2019 01 03 New</title>
-      <link>/post/2019-01-03-new/</link>
-      <pubDate>Thu, 03 Jan 2019 08:59:17 -0600</pubDate>
+      <title>2019 01 03 Default</title>
+      <link>/post/2019-01-03-default/</link>
+      <pubDate>Thu, 03 Jan 2019 21:41:27 -0600</pubDate>
       
-      <guid>/post/2019-01-03-new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2019 01 03 New Post</title>
-      <link>/post/2019-01-03-new-post/</link>
-      <pubDate>Thu, 03 Jan 2019 08:50:54 -0600</pubDate>
-      
-      <guid>/post/2019-01-03-new-post/</guid>
+      <guid>/post/2019-01-03-default/</guid>
       <description></description>
     </item>
     

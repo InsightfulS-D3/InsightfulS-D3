@@ -26,7 +26,7 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,85 +44,71 @@
   </url>
   
   <url>
+    <loc>/blog/2019-01-04-asies-agenda-legislativa/</loc>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-01-04-asies-conflictividad/</loc>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/pages-rich/2019-01-03-generacio%CC%81n-de-conocimiento/</loc>
-    <lastmod>2019-01-03T19:34:59-06:00</lastmod>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-01-04-ufm-metodos-cualitativos/</loc>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-01-04-edg-metodos-cuantitativos/</loc>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-01-04-ndi-partidos-distritales/</loc>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-01-04-ndi-salario-diputados/</loc>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-01-04-ufm-teoria-de-juegos/</loc>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>/pages-rich/2019-01-03-uso-de-datos/</loc>
-    <lastmod>2019-01-03T19:29:04-06:00</lastmod>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
+    <loc>/blog/2019-01-04-ndi-votaciones-congreso/</loc>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/hipser-ipsum/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/startup-ipsum/</loc>
-    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blog/startup-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/startup-ipsum/"
-                />
-  </url>
-  
-  <url>
-    <loc>/blog/coffee-ipsum/</loc>
-    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blog/coffee-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/coffee-ipsum/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/code/</loc>
-    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+    <loc>/tags/asies/</loc>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/code/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/code/"
-                />
   </url>
   
   <url>
-    <loc>/tags/coffee/</loc>
-    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+    <loc>/tags/automatizacion/</loc>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/coffee/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/coffee/"
-                />
+  </url>
+  
+  <url>
+    <loc>/tags/capacitaciones/</loc>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -130,8 +116,14 @@
   </url>
   
   <url>
+    <loc>/tags/conocimiento/</loc>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2019-01-03T19:34:59-06:00</lastmod>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -150,35 +142,27 @@
   </url>
   
   <url>
-    <loc>/tags/images/</loc>
-    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+    <loc>/tags/datos/</loc>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/images/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/images/"
-                />
   </url>
   
   <url>
-    <loc>/tags/ipsum/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <loc>/tags/edg/</loc>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/ipsum/"
-                />
+  </url>
+  
+  <url>
+    <loc>/tags/estudios/</loc>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ndi/</loc>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -188,31 +172,13 @@
   
   <url>
     <loc>/pages-rich/</loc>
-    <lastmod>2019-01-03T19:34:59-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -227,19 +193,9 @@
   </url>
   
   <url>
-    <loc>/tags/words/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <loc>/tags/ufm/</loc>
+    <lastmod>2019-01-04T21:13:14-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/words/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/words/"
-                />
   </url>
   
 </urlset>

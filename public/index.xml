@@ -6,7 +6,7 @@
     <description>Recent content on Data Driven Decisions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 03 Jan 2019 19:34:59 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jan 2019 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,59 +30,96 @@
     </item>
     
     <item>
+      <title>Agenda legislativa</title>
+      <link>/blog/2019-01-04-asies-agenda-legislativa/</link>
+      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2019-01-04-asies-agenda-legislativa/</guid>
+      <description>Describir estudios de agenda legislativa</description>
+    </item>
+    
+    <item>
+      <title>Conflictividad</title>
+      <link>/blog/2019-01-04-asies-conflictividad/</link>
+      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2019-01-04-asies-conflictividad/</guid>
+      <description>Describir estudio de conflictividad</description>
+    </item>
+    
+    <item>
       <title>Generación De Conocimiento</title>
       <link>/pages-rich/2019-01-03-generacio%CC%81n-de-conocimiento/</link>
-      <pubDate>Thu, 03 Jan 2019 19:34:59 -0600</pubDate>
+      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
       
       <guid>/pages-rich/2019-01-03-generacio%CC%81n-de-conocimiento/</guid>
-      <description>Generación de conocimiento &amp;bull; Capacitaciones sobre métodos de investigación &amp;bull; Estudios sociopolíticos &amp;bull; Estrategias de incidencia</description>
+      <description> Generación de conocimiento
+ Capacitaciones sobre métodos de investigación Estudios sociopolíticos
+ Estrategias de incidencia  </description>
+    </item>
+    
+    <item>
+      <title>Métodos cualitativos</title>
+      <link>/blog/2019-01-04-ufm-metodos-cualitativos/</link>
+      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2019-01-04-ufm-metodos-cualitativos/</guid>
+      <description>Describir curso de métdos cualitativos.</description>
+    </item>
+    
+    <item>
+      <title>Métodos cuantitativos</title>
+      <link>/blog/2019-01-04-edg-metodos-cuantitativos/</link>
+      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2019-01-04-edg-metodos-cuantitativos/</guid>
+      <description>Describir curso de métdos cuantitativos</description>
+    </item>
+    
+    <item>
+      <title>Partidos distritales</title>
+      <link>/blog/2019-01-04-ndi-partidos-distritales/</link>
+      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2019-01-04-ndi-partidos-distritales/</guid>
+      <description>Describir estudios sobre partidos distritales</description>
+    </item>
+    
+    <item>
+      <title>Salario diputados</title>
+      <link>/blog/2019-01-04-ndi-salario-diputados/</link>
+      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2019-01-04-ndi-salario-diputados/</guid>
+      <description>Describir estudios sobre salario de diputados</description>
+    </item>
+    
+    <item>
+      <title>Teoria de juegos</title>
+      <link>/blog/2019-01-04-ufm-teoria-de-juegos/</link>
+      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2019-01-04-ufm-teoria-de-juegos/</guid>
+      <description>Describir curso de teoria de juegos</description>
     </item>
     
     <item>
       <title>Uso de datos</title>
       <link>/pages-rich/2019-01-03-uso-de-datos/</link>
-      <pubDate>Thu, 03 Jan 2019 19:29:04 -0600</pubDate>
+      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
       
       <guid>/pages-rich/2019-01-03-uso-de-datos/</guid>
-      <description>Uso de datos &amp;bull; Recolección &amp;bull; Visualización &amp;bull; Procesamiento &amp;bull; Análisis &amp;bull; Automatización</description>
+      <description> Uso de datos
+ Recolección Visualización Procesamiento Análisis Automatización  </description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/blog/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Mon, 23 Jul 2018 21:13:14 -0500</pubDate>
+      <title>Votaciones legislativas</title>
+      <link>/blog/2019-01-04-ndi-votaciones-congreso/</link>
+      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
       
-      <guid>/blog/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>Hipster Ipsum - Español</title>
-      <link>/blog/hipser-ipsum/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
-      
-      <guid>/blog/hipser-ipsum/</guid>
-      <description>Occupy mlkshk kale chips woke, listicle locavore next level fingerstache glossier aesthetic man braid before they sold out kitsch prism. Cred copper mug freegan, flannel YOLO single-origin coffee skateboard artisan four loko church-key man bun. Synth literally gastropub, kombucha chillwave helvetica offal truffaut church-key freegan pop-up gentrify narwhal. Kombucha viral vexillologist green juice. Slow-carb hoodie mumblecore tumeric tattooed meditation, lo-fi fap cred affogato forage whatever austin. Shabby chic direct trade migas, brunch gochujang sriracha chambray fanny pack 8-bit mustache letterpress.</description>
-    </item>
-    
-    <item>
-      <title>Startup Ipsum - Español</title>
-      <link>/blog/startup-ipsum/</link>
-      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
-      
-      <guid>/blog/startup-ipsum/</guid>
-      <description>SpaceTeam affordances quantitative vs. qualitative SpaceTeam physical computing earned media thinker-maker-doer pair programming. Bootstrapping pitch deck physical computing driven cortado human-centered design innovate human-centered design driven. Grok pitch deck fund pitch deck sticky note affordances minimum viable product integrate paradigm viral iterate. Driven fund thought leader personas workflow SpaceTeam viral pair programming physical computing intuitive 360 campaign latte bootstrapping minimum viable product. Bootstrapping physical computing responsive pitch deck SpaceTeam parallax long shadow pitch deck bootstrapping ideate.</description>
-    </item>
-    
-    <item>
-      <title>Coffee Ipsum - Español</title>
-      <link>/blog/coffee-ipsum/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
-      
-      <guid>/blog/coffee-ipsum/</guid>
-      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong. Americano caffeine white, con panna saucer sit, con panna eu, carajillo aftertaste kopi-luwak, body aftertaste cup single origin café au lait saucer. Macchiato java sweet arabica, turkish cup, eu flavour mug extraction white cortado saucer est white brewed instant, rich, barista breve cappuccino barista organic.</description>
+      <guid>/blog/2019-01-04-ndi-votaciones-congreso/</guid>
+      <description>Describir proyecto de votaciones del congreso</description>
     </item>
     
     <item>

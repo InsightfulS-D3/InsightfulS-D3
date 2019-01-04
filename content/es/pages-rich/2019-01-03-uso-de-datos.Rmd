@@ -1,0 +1,15 @@
+---
+title: "Uso de datos"
+author: "Javier Brolo"
+date: 2019-01-04T21:13:14-05:00
+categories: 
+tags: ["datos"]
+---
+
+**Uso de datos**
+
+- Recolección 
+- Visualización 
+- Procesamiento 
+- Análisis
+- Automatización 
