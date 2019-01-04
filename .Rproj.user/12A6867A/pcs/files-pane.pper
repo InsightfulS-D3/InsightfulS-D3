@@ -1,9 +1,13 @@
 {
-    "path" : "~/Documents/GitHub/d3/content/es/projects",
+    "path" : "~/Documents/GitHub/d3",
     "sortOrder" : [
         {
             "ascending" : true,
             "columnIndex" : 2
+        },
+        {
+            "ascending" : false,
+            "columnIndex" : 3
         }
     ]
 }
