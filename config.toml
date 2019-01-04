@@ -111,7 +111,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         weight           = 1
         title            = "Insightful Solutions"
         [languages.es.params]
-            description  = "Descripcion del sitio web"
+            description  = "Usando datos y teoría para decidir"
             footerText   = "(c) 2019 Insightful Solutions, S.A"
 
 
