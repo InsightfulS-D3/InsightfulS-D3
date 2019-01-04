@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datos on Data Driven Decisions</title>
+    <link>/tags/datos/</link>
+    <description>Recent content in Datos on Data Driven Decisions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 04 Jan 2019 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/datos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Uso de datos</title>
+      <link>/pages-rich/2019-01-03-uso-de-datos/</link>
+      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/pages-rich/2019-01-03-uso-de-datos/</guid>
+      <description> Uso de datos
+ Recolección Visualización Procesamiento Análisis Automatización  </description>
+    </item>
+    
+    <item>
+      <title>Votaciones legislativas</title>
+      <link>/blog/2019-01-04-ndi-votaciones-congreso/</link>
+      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2019-01-04-ndi-votaciones-congreso/</guid>
+      <description>Describir proyecto de votaciones del congreso</description>
+    </item>
+    
+  </channel>
+</rss>

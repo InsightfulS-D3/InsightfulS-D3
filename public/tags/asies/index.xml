@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asies on Data Driven Decisions</title>
+    <link>/tags/asies/</link>
+    <description>Recent content in Asies on Data Driven Decisions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 04 Jan 2019 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/asies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agenda legislativa</title>
+      <link>/blog/2019-01-04-asies-agenda-legislativa/</link>
+      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2019-01-04-asies-agenda-legislativa/</guid>
+      <description>Describir estudios de agenda legislativa</description>
+    </item>
+    
+    <item>
+      <title>Conflictividad</title>
+      <link>/blog/2019-01-04-asies-conflictividad/</link>
+      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2019-01-04-asies-conflictividad/</guid>
+      <description>Describir estudio de conflictividad</description>
+    </item>
+    
+  </channel>
+</rss>
