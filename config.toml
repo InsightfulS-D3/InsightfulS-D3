@@ -4,7 +4,7 @@ DefaultContentLanguage           = "es"                    # Default language fo
 disqusShortname                  = "insightful-s-com"      # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
 # Ignore some files 
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+# ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
     themeStyle                   = "light"                  # Choose "light" or "dark"
