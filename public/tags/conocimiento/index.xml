@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Agenda legislativa</title>
-      <link>/blog/2019-01-04-asies-agenda-legislativa/</link>
-      <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
-      
-      <guid>/blog/2019-01-04-asies-agenda-legislativa/</guid>
-      <description>Describir estudios de agenda legislativa</description>
-    </item>
-    
-    <item>
       <title>Conflictividad</title>
       <link>/blog/2019-01-04-asies-conflictividad/</link>
       <pubDate>Fri, 04 Jan 2019 21:13:14 -0500</pubDate>
@@ -83,6 +74,15 @@
       
       <guid>/blog/2019-01-04-ufm-teoria-de-juegos/</guid>
       <description>Describir curso de teoria de juegos</description>
+    </item>
+    
+    <item>
+      <title>Agenda legislativa</title>
+      <link>/blog/2019-01-04-asies-agenda-legislativa/</link>
+      <pubDate>Wed, 02 Jan 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2019-01-04-asies-agenda-legislativa/</guid>
+      <description>Describir estudios de agenda legislativa</description>
     </item>
     
   </channel>
