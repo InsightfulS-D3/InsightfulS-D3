@@ -7,10 +7,10 @@ disqusShortname                  = "insightful-s-com"      # https://gohugo.io/c
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-    themeStyle                   = "dark"                 # Choose "light" or "dark"
-    favicon                      = "/img/icon2.ico"          # Path to favicon file
+    themeStyle                   = "dark"                  # Choose "light" or "dark"
+    favicon                      = "/img/icon2.ico"        # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
-    fadeIn                       = false                    # Turn on/off the fade-in effect
+    fadeIn                       = false                   # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
     # email                        = "youremail@email.com"   # E-mail address for contact section
@@ -18,7 +18,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     # Configure the home page
     [params.home]
-        introHeight              = "fullheight"                 # Input either "medium" or "large" or "fullheight"
+        introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
         showLatest               = true                    # Show latest blog post summary
         showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
         numberOfProjectsToShow   = 2                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
@@ -111,17 +111,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         languageName     = "English"
         languageCode     = "en-us"
         contentDir       = "content/en"
-        weight           = 0
+        weight           = 1
         title            = "Introduction"
         [languages.en.params]
-            description  = "Website Description"   # Max 160 characters show in search results
-            # footerText   = ""                      # Text to override default footer text (markdown allowed)
+            description  = "Using data and theory to decide" # Max 160 characters show in search results
+            footerText   = "(c) 2019 Data Driven Decisions"  # Text to override default footer text (markdown allowed)
 
     [languages.es]
         languageName     = "Español"
         languageCode     = "es"
         contentDir       = "content/es"
-        weight           = 1
+        weight           = 0
         title            = "Data Driven Decisions"
         [languages.es.params]
             description  = "Usando datos y teoría para decidir"

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages-riches on Data Driven Decisions</title>
+    <link>/pages-rich/</link>
+    <description>Recent content in Pages-riches on Data Driven Decisions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 03 Jan 2019 19:34:59 -0600</lastBuildDate>
+    
+	<atom:link href="/pages-rich/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Generación De Conocimiento</title>
+      <link>/pages-rich/2019-01-03-generacio%CC%81n-de-conocimiento/</link>
+      <pubDate>Thu, 03 Jan 2019 19:34:59 -0600</pubDate>
+      
+      <guid>/pages-rich/2019-01-03-generacio%CC%81n-de-conocimiento/</guid>
+      <description>Generación de conocimiento &amp;bull; Capacitaciones sobre métodos de investigación &amp;bull; Estudios sociopolíticos &amp;bull; Estrategias de incidencia</description>
+    </item>
+    
+    <item>
+      <title>Uso de datos</title>
+      <link>/pages-rich/2019-01-03-uso-de-datos/</link>
+      <pubDate>Thu, 03 Jan 2019 19:29:04 -0600</pubDate>
+      
+      <guid>/pages-rich/2019-01-03-uso-de-datos/</guid>
+      <description>Uso de datos &amp;bull; Recolección &amp;bull; Visualización &amp;bull; Procesamiento &amp;bull; Análisis &amp;bull; Automatización</description>
+    </item>
+    
+  </channel>
+</rss>

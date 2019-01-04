@@ -6,7 +6,7 @@
     <description>Recent content on Data Driven Decisions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 23 Jul 2018 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jan 2019 19:34:59 -0600</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,6 +27,24 @@
       
       <guid>/projects/g-conocimiento/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Generación De Conocimiento</title>
+      <link>/pages-rich/2019-01-03-generacio%CC%81n-de-conocimiento/</link>
+      <pubDate>Thu, 03 Jan 2019 19:34:59 -0600</pubDate>
+      
+      <guid>/pages-rich/2019-01-03-generacio%CC%81n-de-conocimiento/</guid>
+      <description>Generación de conocimiento &amp;bull; Capacitaciones sobre métodos de investigación &amp;bull; Estudios sociopolíticos &amp;bull; Estrategias de incidencia</description>
+    </item>
+    
+    <item>
+      <title>Uso de datos</title>
+      <link>/pages-rich/2019-01-03-uso-de-datos/</link>
+      <pubDate>Thu, 03 Jan 2019 19:29:04 -0600</pubDate>
+      
+      <guid>/pages-rich/2019-01-03-uso-de-datos/</guid>
+      <description>Uso de datos &amp;bull; Recolección &amp;bull; Visualización &amp;bull; Procesamiento &amp;bull; Análisis &amp;bull; Automatización</description>
     </item>
     
     <item>
@@ -69,10 +87,10 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Colaboradores</title>
-      <link>/pages/allteam/</link>
+      <link>/pages-flat/allteam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/pages/allteam/</guid>
+      <guid>/pages-flat/allteam/</guid>
       <description>Javier Brolo MSc Ciencia Política y BA Filosofía Director Ejecutivo Insightful Solutions, S.A. javierbrolo@insightful-s.com +(502) 4391-9552</description>
     </item>
     

@@ -1,0 +1,16 @@
+{{ define "title" }}
+{{ with .Site.GetPage "/pages-flat" }}
+    <h1 class="bold-title is-1"></h1>
+{{ end }}
+{{ end }}
+
+{{ define "main" }}
+    <div class="container has-text-centered">
+        <h2 class="title is-1 top-pad strong-post-title">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h2>
+    <!-- Begin blog post content -->
+    <div class="container markdown top-pad">
+        {{ .Content }}
+    </div>
+{{ end }}
