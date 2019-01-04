@@ -101,7 +101,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         weight           = 0
         title            = "Insightful Solutions"
         [languages.en.params]
-            description  = "Website Description"   # Max 160 characters show in search results
+            description  = "Using data and theory to decide"   # Max 160 characters show in search results
             # footerText   = ""                    # Text to override default footer text (markdown allowed)
 
     [languages.es]

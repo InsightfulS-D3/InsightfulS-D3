@@ -1,6 +1,5 @@
 ---
-title: "About"
-image: "profile.jpg"
+title: "About" 
 weight: 0
 ---
 
