@@ -120,6 +120,22 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/"
+                />
+  </url>
+  
+  <url>
     <loc>/home/</loc>
   </url>
   
@@ -136,22 +152,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/tags/images/"
-                />
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/"
                 />
   </url>
   

@@ -122,7 +122,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         languageCode     = "es"
         contentDir       = "content/es"
         weight           = 1
-        title            = "Introducción"
+        title            = "Data Driven Decisions"
         [languages.es.params]
-            description  = "Descripcion del sitio web"
+            description  = "Usando datos y teoría para decidir"
             footerText   = "(c) 2019 Data Driven Decisions"
