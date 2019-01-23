@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546404413898.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4279368889",
+    "id" : "8F23DD2C",
+    "lastKnownWriteTime" : 1546562601,
+    "last_content_update" : 1546562601318,
+    "path" : "~/Documents/GitHub/d3-master/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "113,23",
+        "scrollLine" : "98"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
